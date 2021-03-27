@@ -1,0 +1,198 @@
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/kata_prueba8.deps.json
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/kata_prueba8.runtimeconfig.json
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/kata_prueba8.runtimeconfig.dev.json
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ref/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/kata_prueba8.pdb
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/testhost.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.abstractions.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.assert.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.core.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.csprojAssemblyReference.cache
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.AssemblyInfoInputs.cache
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.AssemblyInfo.cs
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.csproj.CoreCompileInputs.cache
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.csproj.CopyComplete
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/ref/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.pdb
+/Users/ramonasantos/Documents/Kata/kata_prueba8/obj/Debug/net5.0/kata_prueba8.genruntimeconfig.cache
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/kata_prueba8.deps.json
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/kata_prueba8.runtimeconfig.json
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/kata_prueba8.runtimeconfig.dev.json
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ref/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/kata_prueba8.pdb
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/testhost.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.abstractions.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.assert.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.core.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.csprojAssemblyReference.cache
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.AssemblyInfoInputs.cache
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.AssemblyInfo.cs
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.csproj.CoreCompileInputs.cache
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.csproj.CopyComplete
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/ref/kata_prueba8.dll
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.pdb
+/Users/ramonasantos/Documents/Kata/Copia de kata_prueba8/obj/Debug/net5.0/kata_prueba8.genruntimeconfig.cache
